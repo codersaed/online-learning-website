@@ -1,0 +1,17 @@
+.main {
+    border-right: 2px solid green;
+}
+.course-area {
+    padding: 0;
+}
+.course-area:hover {
+    box-shadow: 6px 6px 15px gray;
+    transition-duration: 0.8s;
+}
+.name {
+    cursor: pointer;
+}
+.name:hover {
+    color: red;
+    transition-duration: 0.8s;
+}
